@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GritLup
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Web Development 
+- 👀 I’m interested in ... Data orginaztion, SQL, Excel
+- 🌱 I’m currently learning ... SQL/Excel and some web Development! 
 - 📫 How to reach me ... 
 
 <!---
